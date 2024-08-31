@@ -42,7 +42,7 @@ export const Product = () => {
                   <div className="content-side__list-item">
                     <img
                       className="content-side__list-item--img"
-                      src="/image/side-info-1.svg"
+                      src="/avitoo-react/image/side-info-1.svg"
                       alt="side-info"
                     />
                     <h5 className="content-side__list-item--title">Доставка</h5>
@@ -54,7 +54,7 @@ export const Product = () => {
                   <div className="content-side__list-item">
                     <img
                       className="content-side__list-item--img"
-                      src="/image/side-info-2.svg"
+                      src="/avitoo-react/image/side-info-2.svg"
                       alt="side-info"
                     />
                     <h5 className="content-side__list-item--title">Автотека</h5>
@@ -66,7 +66,7 @@ export const Product = () => {
                   <div className="content-side__list-item">
                     <img
                       className="content-side__list-item--img"
-                      src="/image/side-info-3.svg"
+                      src="/avitoo-react/image/side-info-3.svg"
                       alt="side-info"
                     />
                     <h5 className="content-side__list-item--title">

@@ -37,7 +37,7 @@ export const Layout = () => {
               >
                 <img
                   className="search-btn__icon"
-                  src="/image/search.svg"
+                  src="/avitoo-react/image/search.svg"
                   alt="search"
                 />
                 <span className="search-btn__text">Найти</span>

@@ -7,7 +7,7 @@ export const Header = () => {
       <div className="container">
         <div className="header-box">
           <Link to={`/`} className="header-logo">
-            <img src="/image/logo.svg" alt="Логотип" />
+            <img src="/avitoo-react/image/logo.svg" alt="Логотип" />
             <span>Abito</span>
           </Link>
           

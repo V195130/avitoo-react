@@ -5,7 +5,7 @@ export const cardArray = [
     price: "170 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
   {
@@ -14,7 +14,7 @@ export const cardArray = [
     price: "171 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
   {
@@ -23,7 +23,7 @@ export const cardArray = [
     price: "172 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
   {
@@ -32,7 +32,7 @@ export const cardArray = [
     price: "173 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
   {
@@ -41,7 +41,7 @@ export const cardArray = [
     price: "174 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
   {
@@ -50,7 +50,7 @@ export const cardArray = [
     price: "175 ₽",
     address: " Казань, р-н Вахитовский",
     date: "10 июля 11:39",
-    img: "/image/card-img.png",
+    img: "/avitoo-react/image/card-img.png",
     description: 'Продаю не спеша самокат в хорошем состоянии', 
   },
 ];
@@ -58,19 +58,19 @@ export const cardArray = [
 export const sideInfoArray = [
   {
     id: 0,
-    img: "/image/side-info-1.svg",
+    img: "/avitoo-react/image/side-info-1.svg",
     title: "Доставка",
     text: "Проверка при получении и возможность бесплатно вернуть товар",
   },
   {
     id: 1,
-    img: "/image/side-info-2.svg",
+    img: "/avitoo-react/image/side-info-2.svg",
     title: "Автотека",
     text: "Отчёт с историей авто: пробег, владельцы, сведения о залоге, ДТП и ремонтах",
   },
   {
     id: 2,
-    img: "/image/side-info-3.svg",
+    img: "/avitoo-react/image/side-info-3.svg",
     title: "Онлайн-бронирование жилья",
     text: "Посуточная аренда квартир и домов: большой выбор вариантов для поездок по России",
   },
